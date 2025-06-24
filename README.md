@@ -69,6 +69,5 @@ Trata-se de um sistema completo com autenticação, controle de acesso por rotas
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/pokemonms.git
-cd pokemonms
-
+git clone https://github.com/Grazimagalhaes/Pokemons.git
+cd Pokemons
